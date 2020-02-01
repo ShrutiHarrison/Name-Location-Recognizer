@@ -4,6 +4,7 @@ Identifies a person's name or a location from raw data.
 We can get recognised data from raw data with the help of Stanford NER(Name Entity Recognizer).
 Download the stanford ner version 3.9.2 using this link:
 https://nlp.stanford.edu/software/CRF-NER.shtml
+Keep the stanford folder in the working directory.
 
 Next Step is to Open your Terminal.
 import nltk.
